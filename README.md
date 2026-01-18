@@ -1,7 +1,5 @@
 # Simple Hose
 
-## [Demo](https://mahmoud-abuyoussef.github.io/Simple_House/)
-
 ## Tech Stack
 
 - ### Languages
